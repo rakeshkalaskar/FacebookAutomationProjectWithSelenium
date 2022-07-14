@@ -1,0 +1,257 @@
+2022-07-09 02:41:05,904 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-09 02:41:06,611 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-09 02:41:44,185 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-09 02:44:18,675 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-09 02:48:46,760 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-09 02:48:47,173 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-09 02:49:23,854 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-09 02:51:23,049 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-09 02:55:31,558 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-09 02:55:32,020 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-09 02:55:51,699 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-09 03:02:08,053 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-09 03:02:08,918 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-09 03:05:35,614 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-09 03:05:36,044 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-09 03:10:43,562 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-09 03:10:44,167 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-09 03:14:55,003 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-09 03:14:55,350 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-09 03:26:13,509 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-09 03:26:13,781 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-12 21:32:55,661 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-12 21:32:56,231 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-12 21:36:19,748 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-12 21:36:19,969 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-12 23:24:58,266 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-12 23:24:58,578 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-12 23:25:22,964 [main] ERROR com.facebook.testCases.BaseClass - test case failed
+2022-07-12 23:37:59,288 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-12 23:37:59,565 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-12 23:38:26,212 [main] ERROR com.facebook.testCases.BaseClass - test case failed
+2022-07-13 00:30:21,377 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 00:30:28,809 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 00:30:57,820 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-13 00:34:39,512 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 00:34:41,874 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 00:35:15,683 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-13 17:56:42,388 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 17:56:46,157 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 17:57:38,213 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 17:57:39,609 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 18:00:23,318 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 18:00:23,461 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:26:32,822 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:26:33,244 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:26:41,234 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:26:41,398 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:26:43,768 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:26:44,073 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:26:47,775 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:26:48,264 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:29:37,350 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:29:37,555 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:29:43,345 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:29:43,705 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:35:08,650 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:35:08,976 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:36:37,756 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:36:37,900 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:43:28,544 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:43:28,880 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:46:01,397 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:46:01,613 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:48:26,282 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:48:26,440 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:48:38,154 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-13 23:51:45,874 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:51:46,124 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-13 23:52:02,944 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-13 23:52:03,141 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 00:00:32,279 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 00:00:32,629 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 00:00:48,936 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 00:00:49,234 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 00:03:38,564 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 00:03:38,727 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 00:03:46,209 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 00:03:48,574 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 00:19:40,509 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 00:19:41,111 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 00:20:31,980 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-14 00:21:55,930 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 00:21:56,075 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 00:22:07,524 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-14 00:48:23,654 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 00:48:24,374 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 00:49:30,197 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-14 00:50:29,432 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 00:50:29,681 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 00:50:41,972 [main] INFO com.facebook.testCases.BaseClass - login with enter keyboard button test case passed
+2022-07-14 00:50:57,759 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 00:50:58,508 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 00:51:16,258 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 00:51:16,546 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 00:51:27,804 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-14 00:55:07,503 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 00:55:07,817 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 01:03:08,735 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 01:03:09,046 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 01:04:12,617 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-14 01:33:04,374 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 01:33:04,917 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 01:43:01,803 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 01:43:02,301 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 01:48:40,235 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 01:48:40,627 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 01:53:32,667 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 01:53:32,984 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 02:05:07,079 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 02:05:07,588 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 02:05:16,270 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-14 02:12:37,665 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 02:12:38,137 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 02:12:49,515 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-14 02:17:11,338 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 02:17:11,801 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 02:17:18,722 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-14 02:24:23,744 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 02:24:24,070 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 02:24:31,792 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-14 02:24:31,987 [main] INFO com.facebook.testCases.BaseClass - password button test case passed
+2022-07-14 02:24:32,099 [main] INFO com.facebook.testCases.BaseClass - password button test case passed
+2022-07-14 11:13:04,490 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 11:13:05,434 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 11:13:14,748 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-14 11:13:15,163 [main] INFO com.facebook.testCases.BaseClass - password button test case passed
+2022-07-14 11:13:15,335 [main] INFO com.facebook.testCases.BaseClass - password button test case passed
+2022-07-14 11:13:15,357 [main] INFO com.facebook.testCases.BaseClass - email placeholder test case passed
+2022-07-14 11:13:15,388 [main] INFO com.facebook.testCases.BaseClass - password placeholder test case passed
+2022-07-14 11:13:15,513 [main] INFO com.facebook.testCases.BaseClass - login button text test case passed
+2022-07-14 11:49:34,095 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 11:49:35,335 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 11:49:50,958 [main] INFO com.facebook.testCases.BaseClass - login test case passed
+2022-07-14 11:49:52,053 [main] INFO com.facebook.testCases.BaseClass - password button test case passed
+2022-07-14 11:49:52,242 [main] INFO com.facebook.testCases.BaseClass - password button test case passed
+2022-07-14 11:49:52,271 [main] INFO com.facebook.testCases.BaseClass - email placeholder test case passed
+2022-07-14 11:49:52,305 [main] INFO com.facebook.testCases.BaseClass - password placeholder test case passed
+2022-07-14 11:49:52,352 [main] INFO com.facebook.testCases.BaseClass - login button text test case passed
+2022-07-14 11:55:27,329 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 11:55:27,616 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 11:58:36,331 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 11:58:37,352 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:06:25,717 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:06:26,026 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:08:00,498 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:08:00,658 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:09:29,052 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:09:29,292 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:26:55,238 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:26:59,258 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:33:26,530 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:33:27,801 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:39:04,594 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:39:04,839 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:39:16,104 [main] ERROR com.facebook.testCases.BaseClass - test case failed
+2022-07-14 12:43:30,785 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:43:32,424 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:49:10,420 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:49:11,068 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:51:41,032 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:51:41,194 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:53:24,577 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:53:24,756 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:55:24,404 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:55:24,411 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:55:28,133 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:55:28,418 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 12:59:20,642 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 12:59:20,909 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 13:24:57,313 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 13:24:58,022 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 13:28:33,211 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 13:28:33,437 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 13:39:37,730 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 13:39:37,913 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 13:41:10,106 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 13:41:10,287 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 13:44:54,194 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 13:44:54,358 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 15:07:15,028 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 15:07:15,347 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 15:14:24,135 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 15:14:24,311 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 15:16:30,768 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 15:16:31,109 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 15:21:27,610 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 15:21:27,811 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 15:24:29,547 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 15:24:29,732 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 15:30:07,194 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 15:30:07,414 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 15:33:19,712 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 15:33:19,891 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 15:40:37,289 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 15:40:37,539 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 15:53:00,615 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 15:53:00,859 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 15:55:05,323 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 15:55:05,531 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 16:32:10,904 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 16:32:11,377 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 16:40:39,911 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 16:40:40,216 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 16:42:59,063 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 16:42:59,385 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 17:22:53,785 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 17:22:54,911 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 17:38:05,811 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 17:38:06,127 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 17:45:10,172 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 17:45:10,348 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 17:59:16,634 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 17:59:17,050 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 18:01:43,781 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 18:01:44,370 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 18:10:16,329 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 18:10:16,659 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 18:11:26,065 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 18:11:26,222 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 18:13:00,749 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 18:13:01,023 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 18:19:10,833 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 18:19:11,252 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 18:45:50,110 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 18:45:50,438 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 18:51:01,991 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 18:51:02,214 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 18:57:30,655 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 18:57:30,910 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 19:03:37,032 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 19:03:37,349 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 19:04:32,749 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 19:04:32,931 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 19:08:24,250 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 19:08:24,705 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 19:27:17,361 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 19:27:17,582 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 19:31:48,539 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 19:31:48,835 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-14 19:35:53,177 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-14 19:35:53,638 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-15 02:14:48,508 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-15 02:14:49,404 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-15 02:15:08,311 [main] INFO com.facebook.testCases.BaseClass - login to account test case passed
+2022-07-15 02:54:31,656 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-15 02:54:32,083 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-15 02:56:00,254 [main] INFO com.facebook.testCases.BaseClass - login to account test case passed
+2022-07-15 03:05:19,203 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-15 03:05:20,173 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-15 03:10:08,724 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-15 03:10:08,870 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-15 03:13:57,918 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-15 03:13:58,177 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-15 03:15:00,292 [main] INFO com.facebook.testCases.BaseClass - login to account test case passed
+2022-07-15 03:28:28,456 [main] INFO com.facebook.testCases.BaseClass - chrome browser opening
+2022-07-15 03:28:29,210 [main] INFO com.facebook.testCases.BaseClass - chrome browser opened
+2022-07-15 03:28:47,440 [main] INFO com.facebook.testCases.BaseClass - login to account test case passed

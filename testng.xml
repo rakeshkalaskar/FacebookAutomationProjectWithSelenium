@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="demo">
+	<listeners>
+		<listener class-name="com.facebook.utilities.Reporting" />
+	</listeners>
+	<test name="fb_login">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.facebook.testCases.TC_LogInTest_001_To_004" />
+		</classes>
+	</test> <!-- fb_login -->
+</suite>

@@ -1,0 +1,16 @@
+2022-07-15 02:14:48,508 - com.facebook.testCases.BaseClass -INFO - chrome browser opening
+2022-07-15 02:14:49,404 - com.facebook.testCases.BaseClass -INFO - chrome browser opened
+2022-07-15 02:15:08,311 - com.facebook.testCases.BaseClass -INFO - login to account test case passed
+2022-07-15 02:54:31,656 - com.facebook.testCases.BaseClass -INFO - chrome browser opening
+2022-07-15 02:54:32,083 - com.facebook.testCases.BaseClass -INFO - chrome browser opened
+2022-07-15 02:56:00,254 - com.facebook.testCases.BaseClass -INFO - login to account test case passed
+2022-07-15 03:05:19,203 - com.facebook.testCases.BaseClass -INFO - chrome browser opening
+2022-07-15 03:05:20,173 - com.facebook.testCases.BaseClass -INFO - chrome browser opened
+2022-07-15 03:10:08,724 - com.facebook.testCases.BaseClass -INFO - chrome browser opening
+2022-07-15 03:10:08,870 - com.facebook.testCases.BaseClass -INFO - chrome browser opened
+2022-07-15 03:13:57,918 - com.facebook.testCases.BaseClass -INFO - chrome browser opening
+2022-07-15 03:13:58,177 - com.facebook.testCases.BaseClass -INFO - chrome browser opened
+2022-07-15 03:15:00,292 - com.facebook.testCases.BaseClass -INFO - login to account test case passed
+2022-07-15 03:28:28,456 - com.facebook.testCases.BaseClass -INFO - chrome browser opening
+2022-07-15 03:28:29,210 - com.facebook.testCases.BaseClass -INFO - chrome browser opened
+2022-07-15 03:28:47,440 - com.facebook.testCases.BaseClass -INFO - login to account test case passed
